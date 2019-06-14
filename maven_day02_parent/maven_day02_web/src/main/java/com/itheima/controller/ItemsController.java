@@ -20,7 +20,5 @@ public class ItemsController {
         model.addAttribute("item", items);
         return "itemDetail";
 
-
-
     }
 }
